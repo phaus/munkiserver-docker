@@ -5,5 +5,5 @@ Maintainer: philipp@haussleiter.de
 
 ## Building the Docker Image
 
-    docker build -t centos-rvm:2.2.2 .
+    docker build -t centos6-rvm:2.2.2 .
 
